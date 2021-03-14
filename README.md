@@ -33,6 +33,7 @@ In Pokemon Sword/Shield, this will skip the amount of frames you specified in th
  * Change the date to January 1st 2020 at 1:00 am.
  * Make sure your cursor is on "Date and Time".
  * Make sure that when you select "Date and Time" the cursor is on "OK".
+
 With all of these set up, it will automatically skip the correct amount offrames for you. (It also takes leap year into account... you're welcome).
 
 # Notes
