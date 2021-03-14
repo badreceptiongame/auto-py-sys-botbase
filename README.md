@@ -29,10 +29,10 @@ In Pokemon Sword/Shield, this will read the Pokemon in your 1st box in the 1st p
 
 ## Skip to shiny frame
 In Pokemon Sword/Shield, this will skip the amount of frames you specified in the config file. It will stop 4 days before the shiny frame. This assumes you have done the [Date-Spam Exploit](https://www.youtube.com/watch?v=CUTpProiDwU). To make sure this works correctly, you need to do the following:
- *Turn off "Synchronize Clock via Internet".
- *Change the date to January 1st 2020 at 1:00 am.
- *Make sure your cursor is on "Date and Time".
- *Make sure that when you select "Date and Time" the cursor is on "OK".
+ * Turn off "Synchronize Clock via Internet".
+ * Change the date to January 1st 2020 at 1:00 am.
+ * Make sure your cursor is on "Date and Time".
+ * Make sure that when you select "Date and Time" the cursor is on "OK".
 With all of these set up, it will automatically skip the correct amount offrames for you. (It also takes leap year into account... you're welcome).
 
 # Notes
