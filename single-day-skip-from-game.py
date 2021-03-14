@@ -15,7 +15,7 @@ print("Starting")
 time.sleep(1)
 while True:
     sendCommand(s, "click HOME")
-    time.sleep(1)
+    time.sleep(2)
     sendCommand(s, "click DDOWN")
     time.sleep(dSpeed)
     sendCommand(s, "click DRIGHT")
